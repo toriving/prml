@@ -8,7 +8,7 @@ last_modified_date: 2020-09-10T22:00:08+0000
 ---
 
 # Pattern Recognition and Machine Learning
-{: .fs-9 }
+{: .fs-8 }
 
 PRML in Korean  
 {: .fs-6 .fw-300 }
