@@ -56,7 +56,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "PRML on GitHub":
     - "//github.com/toriving/prml"
 
 # Makes Aux links open in a new tab. Default is false
