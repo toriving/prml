@@ -17,6 +17,9 @@ PRML in Korean
 
 ## About the project
 
+PRML is &copy; 2020 by [Dongju Park](https://toriving.github.io/).
+
+
 ### About the original jekyll project
 
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
