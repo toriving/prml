@@ -15,13 +15,15 @@ PRML in Korean
 
 ---
 
-## About the original jekyll project
+## About the project
+
+### About the original jekyll project
 
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
 ### License
 
-This site is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+This site is distributed by an [MIT license](https://github.com/toriving/prml/blob/master/LICENSE.txt).
 
 ### Contributing
 
