@@ -3,6 +3,7 @@ layout: default
 title: Chapter 1
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Chapter 1. 소개
@@ -21,4 +22,4 @@ has_children: true
 
 머신 러닝을 적용하면 더 나은 결과를 얻을 수 있다.
 
-머신 러닝 알고리즘의 결과물은 함수 y(x)
+머신 러닝 알고리즘의 결과물은 함수 y(x) $$x$$ $x$
