@@ -106,3 +106,10 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# mathjax
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
