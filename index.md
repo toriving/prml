@@ -31,7 +31,7 @@ This site is distributed by an [MIT license](https://github.com/toriving/prml/bl
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/toriving/prml).
 
 #### Thank you to the contributors of PRML!
 
